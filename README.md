@@ -6,7 +6,6 @@ Requirements: python, pycosat, RNAlib (from the ViennaRNA package)
 usage: python DesiRNA -f [input filename] [options]
 
   -s SET, --set SET                                         Name of a file containing set of the preferred motifs.
-  
   -m NUMBER_OF_MUTATIONS, --mutations NUMBER_OF_MUTATIONS   Number of mutation cycles.
   
   -v {0,1}, --verbose {0,1}                                 Displaying solution from SATsolver.
